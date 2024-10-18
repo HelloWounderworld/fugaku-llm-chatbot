@@ -53,8 +53,14 @@ output:
 2. [Fugaku-LLM DeepSpeedFugaku][2]
 3. [Pytorch Nvidia][3]
 4. [Awesome Japanese LLM][4]
+5. [Nvidia Driver Download][5]
+6. [Nvidia Container Toolkit][6]
+7. [Nvidia Container Toolkit Documentation][7]
 
 [1]: https://huggingface.co/Fugaku-LLM/Fugaku-LLM-13B-instruct
 [2]: https://github.com/Fugaku-LLM/DeepSpeedFugaku
 [3]: https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pytorch
 [4]: https://github.com/llm-jp/awesome-japanese-llm
+[5]: https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/531.61/531.61-desktop-win10-win11-64bit-international-dch-whql.exe&lang=us&type=GeForce
+[6]: https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/1.14.4/release-notes.html
+[7]: https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/1.14.4/index.html

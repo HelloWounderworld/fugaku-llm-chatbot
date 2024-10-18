@@ -61,6 +61,7 @@ output:
 10. [Fugaku LLM ChatBot How to Build][10]
 11. [Fugaku LLM ChatBot How to Build 2][11]
 12. [Fugaku LLM ChatBot Ollama Chat Interface][12]
+13. [Fugaku LLM 13B Japanese language model][13]
 
 [1]: https://huggingface.co/Fugaku-LLM/Fugaku-LLM-13B-instruct
 [2]: https://github.com/Fugaku-LLM/DeepSpeedFugaku
@@ -74,3 +75,4 @@ output:
 [10]: https://note.com/owlet_notes/n/nd144bd2d1dc1
 [11]: https://note.com/ngc_shj/n/n7a8ce01f13ac
 [12]: https://github.com/ollama-ui/ollama-ui
+[13]: https://dataloop.ai/library/model/fugaku-llm_fugaku-llm-13b/

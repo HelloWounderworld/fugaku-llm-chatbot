@@ -56,6 +56,11 @@ output:
 5. [Nvidia Driver Download][5]
 6. [Nvidia Container Toolkit][6]
 7. [Nvidia Container Toolkit Documentation][7]
+8. [Ollama Instructions to Use Fugaku-LLM 13B GGUF][8]
+9. [Ollama Instructions to Use Fugaku-LLM 13B GGUF by Ubuntu][9]
+10. [Fugaku LLM ChatBot How to Build][10]
+11. [Fugaku LLM ChatBot How to Build 2][11]
+12. [Fugaku LLM ChatBot Ollama Chat Interface][12]
 
 [1]: https://huggingface.co/Fugaku-LLM/Fugaku-LLM-13B-instruct
 [2]: https://github.com/Fugaku-LLM/DeepSpeedFugaku
@@ -64,3 +69,8 @@ output:
 [5]: https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=/Windows/531.61/531.61-desktop-win10-win11-64bit-international-dch-whql.exe&lang=us&type=GeForce
 [6]: https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/1.14.4/release-notes.html
 [7]: https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/1.14.4/index.html
+[8]: https://zenn.dev/hellorusk/articles/94bf32ea09ba26
+[9]: https://tech.takuyakobayashi.jp/2024/05/18/23
+[10]: https://note.com/owlet_notes/n/nd144bd2d1dc1
+[11]: https://note.com/ngc_shj/n/n7a8ce01f13ac
+[12]: https://github.com/ollama-ui/ollama-ui
